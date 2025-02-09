@@ -1,6 +1,6 @@
 import React from "react";
 import "./customers.css";
-
+import oshpaz from '../../../../public/images/oshpaz.png'
 function Customers() {
   return (
     <>
@@ -16,7 +16,7 @@ function Customers() {
                   {/* <p>Our Best Chef 😁</p> */}
                 </div>
               </div>
-              <img src="./public/images/oshpaz.png" alt="" />
+              <img src={oshpaz} alt="" />
             </div>
             <div className="text">
               <a href="#">Testimonials</a>
