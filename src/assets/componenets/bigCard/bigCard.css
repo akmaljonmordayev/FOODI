@@ -1,0 +1,72 @@
+.big-card {
+  padding: 37px 44px 46px 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  row-gap: 25px;
+  background-color: #ffffff;
+  box-shadow: 2px 9px 42px 0px #00000014;
+border-radius: 40px;
+}
+
+.big-card img {
+  width: 276px;
+  height: 276px;
+}
+.big-card h4 {
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 36.31px;
+  letter-spacing: 0%;
+}
+
+.big-card p {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 26.63px;
+  letter-spacing: 0%;
+  color: #555555;
+}
+.price {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29.05px;
+  letter-spacing: 0%;
+}
+
+.price span {
+  color: #ff6868;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 36.31px;
+  letter-spacing: 0%;
+}
+
+.right p {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29.05px;
+  letter-spacing: 0%;
+  color: #454545;
+}
+.right-left-parent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.right {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.right p{
+  display: flex;
+  align-items: center;
+  margin-left: 150px;
+}
+.price{
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,53 @@
+.dishes-section {
+  margin-top: 208px;
+}
+
+.special-dishes {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24.2px;
+  letter-spacing: 17.5%;
+  color: #ff6868;
+}
+.left h2 {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 78.91px;
+  letter-spacing: 0%;
+  color: #000000;
+  margin-top: 40px;
+  width: 580px;
+}
+
+.left-right-parent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.left-arrow,
+.right-arrow {
+  padding: 32px 34px;
+  width: 80px;
+  height: 80px;
+  background-color: #efefef;
+  border-radius: 50%;
+}
+.left-arrow:hover{
+  background-color: #39DB4A;
+  color: white;
+}
+.right-arrow:hover{
+  background-color: #39DB4A;
+  color: white;
+}
+
+
+
+
+
+.cards{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 63px;
+}

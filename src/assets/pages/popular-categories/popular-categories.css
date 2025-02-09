@@ -1,0 +1,28 @@
+.popular__title {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24.2px;
+  letter-spacing: 0.175em;
+  text-align: center;
+  color: #ff6868;
+  margin-top: 33px;
+}
+
+.popular-subtitle {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72.61px;
+  text-align: center;
+  margin-top: 29px;
+  color: #000000;
+}
+
+
+
+.popular__cards{
+  display: flex;
+  align-items: center;
+  margin-top: 78px;
+  gap: 32px;
+  justify-content: center;
+}
